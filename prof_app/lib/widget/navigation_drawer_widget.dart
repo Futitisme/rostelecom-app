@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:prof_app/page/apply_page.dart';
-import 'package:prof_app/page/contacts_page.dart';
-import 'package:prof_app/page/events_page.dart';
-import 'package:prof_app/page/history_page.dart';
-import 'package:prof_app/page/photos_page.dart';
-import 'package:prof_app/page/plans_page.dart';
-import 'package:prof_app/page/questions_page.dart';
-import 'package:prof_app/page/report_page.dart';
+import 'package:prof_app/pages/apply_page.dart';
+import 'package:prof_app/pages/contacts_page.dart';
+import 'package:prof_app/pages/events_page.dart';
+import 'package:prof_app/pages/history_page.dart';
+import 'package:prof_app/pages/photos_page.dart';
+import 'package:prof_app/pages/plans_page.dart';
+import 'package:prof_app/pages/questions_page.dart';
+import 'package:prof_app/pages/report_page.dart';
 
 class NavigationDrawerWidget extends StatelessWidget {
   final padding = EdgeInsets.symmetric(horizontal: 20);
